@@ -1,6 +1,6 @@
 ## Hi there 👋 😎
 
-A medical student with an interest in AI and biomedical technologies :)
+I am Mohammad Reza, a medical student with an interest in AI and biomedical technologies :)
 
 
 **My Coding Experiences:**
